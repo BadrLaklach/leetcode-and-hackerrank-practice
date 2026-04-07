@@ -33,7 +33,7 @@ class SolutionBruteForce:
     """
     ----------------------------------------------------------
     🔹 METHOD 1 — BRUTE FORCE
-    ----------------------------------------------------------
+    ----------------------------------------------------------git 
     Intuition:
     Try every possible pair of lines (i, j) and calculate the 
     area. The area is defined by the shorter of the two lines 

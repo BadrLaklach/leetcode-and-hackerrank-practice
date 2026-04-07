@@ -1,18 +1,20 @@
-# 📝 LeetCode Practice
+# 📝 LeetCode & HackerRank Practice
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/BadrLaklach/leetcode-practice)](https://github.com/BadrLaklach/leetcode-practice)
-[![GitHub stars](https://img.shields.io/github/stars/BadrLaklach/leetcode-practice?style=social)](https://github.com/BadrLaklach/leetcode-practice)
-[![GitHub forks](https://img.shields.io/github/forks/BadrLaklach/leetcode-practice?style=social)](https://github.com/BadrLaklach/leetcode-practice)
+[![GitHub repo size](https://img.shields.io/github/repo-size/BadrLaklach/leetcode-and-hackerrank-practice)](https://github.com/BadrLaklach/leetcode-and-hackerrank-practice)
+[![GitHub stars](https://img.shields.io/github/stars/BadrLaklach/leetcode-and-hackerrank-practice?style=social)](https://github.com/BadrLaklach/leetcode-and-hackerrank-practice)
+[![GitHub forks](https://img.shields.io/github/forks/BadrLaklach/leetcode-and-hackerrank-practice?style=social)](https://github.com/BadrLaklach/leetcode-and-hackerrank-practice)
 
-Welcome to my **LeetCode Practice Repository**! 🚀  
-This repository contains my solutions to **LeetCode problems**, along with detailed notes and explanations for each problem. It is organized to help anyone improve their problem-solving skills in **Data Structures, Algorithms, and Coding Challenges**.
+Welcome to my **LeetCode & HackerRank Practice Repository**! 🚀  
+This repository contains my solutions to both **LeetCode** and **HackerRank** problems, along with detailed notes and explanations for each problem. It is organized to help anyone improve their problem-solving skills in **Data Structures, Algorithms, and Coding Challenges**.
 
 ---
 
 ## 📂 Repository Structure
 
-The repo is organized by **difficulty levels**:
+The repo is organized by **platform and difficulty levels**:
 
+- **`leetcode-practice/`**: My LeetCode solutions (Arrays, Two Pointers, Stack, etc.)
+- **`hackerrank-practice/`**: My HackerRank solutions 
 
 Each folder contains solutions in **Python** (or your preferred language) along with **notes** explaining the approach, complexity analysis, and key points.
 
@@ -21,7 +23,7 @@ Each folder contains solutions in **Python** (or your preferred language) along 
 ## ⚡ Highlights
 
 - 🧩 **Detailed Notes**: Each solution comes with clear explanations and complexity analysis.  
-- 🚀 **Organized Structure**: Problems are categorized into Easy, Medium, and Hard for structured learning.  
+- 🚀 **Organized Structure**: Problems are categorized by platform, topics, and difficulty for structured learning.  
 - 💡 **Learning Focus**: Focus on improving **problem-solving skills**, understanding algorithms, and mastering data structures.  
 - 🔑 **Key Concepts**: Covers topics like Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, and more.
 
